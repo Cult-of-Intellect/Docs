@@ -1,0 +1,9 @@
+staff:
+  label: staff
+  permalink: /staff
+  description: staff tag description
+
+  discord:
+  label: discord
+  permalink: /discord
+  description: discord tag description
