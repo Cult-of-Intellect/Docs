@@ -4,53 +4,42 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cult of Intellect',
-  tagline: 'e',
-  favicon: 'img/favicon.ico',
+  title: "Cult of Intellect",
+  tagline: "...",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  url: "https://your-docusaurus-site.example.com",
+  baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarPath: "./sidebars.js",
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -60,45 +49,59 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/eye.gif',
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: true,
+      },
+      image: "img/eye.gif",
       navbar: {
-        title: 'Cult of Intellect',
+        title: "Cult of Intellect",
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/eye.gif',
+          alt: "Cult of Intellect Logo",
+          src: "img/eye.gif",
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
+            type: "docSidebar",
+            sidebarId: "tutorialSidebar",
+            position: "left",
+            label: "Documentation",
+          },
+          {
+            href: "https://cultofintellect.com",
+            label: "Main Website",
+            position: "right",
+          },
+          {
+            href: "https://cultofintellect.com/discord",
+            label: "Discord",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Documentation',
+            title: "Docs",
+            items: [],
+          },
+          {
+            title: "Community",
             items: [
+              {
+                label: "Discord",
+                href: "https://cultofintellect.com/discord",
+              },
             ],
           },
           {
-            title: 'Cult of Intellect',
-            items: [
-              {
-                label: 'DX9WARE',
-                href: 'https://cultofintellect.com/dx9ware/',
-              },
-              {
-                label: 'Discord',
-                href: 'https://cultofintellect.com/discord',
-              },
-            ],
+            title: "More",
+            items: [],
           },
-           
         ],
+        copyright: `Copyright © ${new Date().getFullYear()} Cult of Intellect.`,
       },
       prism: {
         theme: prismThemes.github,
