@@ -1,9 +1,7 @@
 ---
-sidebar_position: 1
-sidebar_class_name: green
+sidebar_position: 3
+sidebar_label: Server Roles
 ---
-
-# Server Roles & Their Significance - Philipsca added
 
 # **Server Roles & Their Significance**
 
@@ -65,5 +63,3 @@ _Last updated: **1/9/2025**_
 | **@R15W - Cult Leader** | Oversees server and products                                                              | Everything, a reddish-pink role|
 
 ---
-
-**Note:** Ensure the roles and privileges described here align with the latest server settings.
