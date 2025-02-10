@@ -11,7 +11,6 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Cult of Intellect",
-  tagline: "...",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -36,6 +35,7 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
+          routeBasePath: "/",
         },
         blog: false,
         theme: {
@@ -79,29 +79,6 @@ const config = {
             position: "right",
           },
         ],
-      },
-      footer: {
-        style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Discord",
-                href: "https://cultofintellect.com/discord",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cult of Intellect.`,
       },
       prism: {
         theme: prismThemes.github,
