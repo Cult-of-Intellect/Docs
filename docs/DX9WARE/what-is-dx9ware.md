@@ -13,8 +13,6 @@ From a range of unique rage features to the most legit ones packed into a noob-f
 
 Learn more about DX9WARE at https://cultofintellect.com/dx9ware/.
 
-## What games are supported?
+# Frequently Asked Questions (FAQ)
 
-All of them - seriously. From the biggest games haunting the front page to the smallest ones, DX9WARE can support every one of them. This is thanks to the addition of DX9WARE LUA, which opens a plethora of doors leading to an infinite number of possibilities & control.
-
-Note: most Roblox games work natively with DX9WARE; however, on games with custom models, you will need to add support manually either by making your own DX9WARE LUA script or by using someone else's found in our massive library.
+If you have any other questions about DX9WARE, check out the [FAQ](/DX9WARE/FAQ/general).
