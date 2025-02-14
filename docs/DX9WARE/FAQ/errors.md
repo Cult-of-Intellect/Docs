@@ -74,7 +74,7 @@ This may unexpectectly impact some of your other apps. If that happens or you no
 
 </details>
 
-## [\\.\Nal] Driver is alraedy running.
+## [\\.\Nal] Driver is already running.
 
 <details>
   <summary>Click me to expand error details. <br /> <br /> ![Failed to load driver](/img/dx9ware/driver-already-running.png)</summary>
