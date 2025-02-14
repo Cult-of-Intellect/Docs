@@ -1,7 +1,3 @@
----
-sidebar_position: 2
-sidebar_label: Server Rules
----
 # Server Rules
 
 ## Information
@@ -14,6 +10,7 @@ sidebar_label: Server Rules
 **👶🏿 Powerless will be given at 4 warnings.**
 
 ---
+
 </details>
 
 ---
@@ -25,7 +22,7 @@ sidebar_label: Server Rules
 
 ---
 
-### Violations:
+#### Violations:
 
 - **NSFW content**
 - **Advertisements**
@@ -42,11 +39,13 @@ sidebar_label: Server Rules
 - **False information about Cult of Intellect**
 
 #### Additional Notes:
-- **NSFW content** = 2 warnings  
-- **Pedophilic language** = 3 warnings  
+
+- **NSFW content** = 2 warnings
+- **Pedophilic language** = 3 warnings
 - **Advertisements** = Username and DMs recorded
 
 ---
+
 </details>
 
 ---
@@ -58,16 +57,18 @@ sidebar_label: Server Rules
 
 ---
 
-### Violations:
+#### Violations:
 
 - **Malicious content**
 - **Impersonating staff**
 - **Must be 13+ to be in the server**
 
 #### Additional Notes:
+
 - **Malicious content** includes actions in DMs.
 
 ---
+
 </details>
 
 ---
@@ -79,7 +80,7 @@ sidebar_label: Server Rules
 
 ---
 
-### Violations:
+#### Violations:
 
 - **Pedophilic content**
 - **Breach of Terms of Service**
@@ -87,7 +88,9 @@ sidebar_label: Server Rules
 - **Doxxing, gathering, or sharing confidential info of members**
 
 #### Additional Notes:
+
 Refer to our [Terms of Service](https://cultofintellect.com/termsofservice/) for further details.
 
 ---
+
 </details>
