@@ -5,22 +5,14 @@
 <details>
 <summary>🔑 Information</summary>
 
----
-
 **👶🏿 Powerless will be given at 4 warnings.**
 
----
-
 </details>
-
----
 
 ## Warns
 
 <details>
 <summary>Warns</summary>
-
----
 
 #### Violations:
 
@@ -44,18 +36,12 @@
 - **Pedophilic language** = 3 warnings
 - **Advertisements** = Username and DMs recorded
 
----
-
 </details>
-
----
 
 ## Kicks
 
 <details>
 <summary>Kicks</summary>
-
----
 
 #### Violations:
 
@@ -67,18 +53,12 @@
 
 - **Malicious content** includes actions in DMs.
 
----
-
 </details>
-
----
 
 ## Blacklists & Bans
 
 <details>
 <summary>Blacklists & Bans</summary>
-
----
 
 #### Violations:
 
@@ -90,7 +70,5 @@
 #### Additional Notes:
 
 Refer to our [Terms of Service](https://cultofintellect.com/termsofservice/) for further details.
-
----
 
 </details>
