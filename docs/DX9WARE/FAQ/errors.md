@@ -23,6 +23,50 @@ Follow all the steps in the [initial setup guide](/dx9ware/initial-setup).
 
 ---
 
+## Infinite Loading (Loading stuck)
+
+<details>
+  <summary>Click me to expand error details. <br /> <br /> ![inf load](/img/dx9ware/infiniteload.png)</summary>
+
+#### Issue
+
+ROBLOX account is not using the LIVE channel.
+
+#### Fix
+
+To help make things easier for users, we have created a modified version of Bloxstrap which forces the LIVE channel, disables telemetry, and disables Bloxstrap's ability to update.
+
+:::danger
+If you have Bloxstrap already installed, uninstall it first, and then install the file below.
+:::
+
+**You do NOT need to have Bloxstrap before installing this. Using this installation of Bloxstrap should fix your problem regardless of if you used Bloxstrap before or not.**
+
+[Bloxstrap-2.8.6-modified.exe](/Bloxstrap-2.8.6-modified.exe)
+
+</details>
+
+---
+
+## VCRUNTIME140.dll was not found.
+
+<details>
+  <summary>Click me to expand error details. <br /> <br /> ![inf load](/img/dx9ware/vcruntime140dll.png)</summary>
+
+#### Issue
+
+Your computer is missing Visual C++ Redistributables which is required to run DX9WARE.
+
+#### Fix
+
+Download and install the Visual Studio 2015, 2017, 2019 and 2022 sedistributable from the [Microsoft website](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+
+Download both X86 and X64 redistributables.
+
+</details>
+
+---
+
 ## Failed to load driver. Error: C000009A
 
 <details>
@@ -39,6 +83,26 @@ Find & disable or uninstall FACEIT anticheat
 
 </details>
 
+---
+
+## Failed to load driver. Error: C0000022
+
+<details>
+  <summary>Click me to expand error details. <br /> <br /> ![Failed to load driver](/img/dx9ware/C0000022.png)</summary>
+
+#### Issue
+
+Vanguard anticheat is running.
+
+#### Fix
+
+1. Open Command Prompt **as Administrator**
+2. Run `sc stop vgk` to stop the vanguard anticheat.
+
+</details>
+
+---
+
 ## overlay.exe - Bad Image
 
 <details>
@@ -53,6 +117,8 @@ DX9WARE makes use of DirectX11. This is usually already installed on most gamers
 Manually download & install the [DirectX Runtimes](https://www.microsoft.com/en-gb/download/details.aspx?id=35) from the Microsoft website.
 
 </details>
+
+---
 
 ## Yellow Screen
 
@@ -74,6 +140,8 @@ This may unexpectectly impact some of your other apps. If that happens or you no
 
 </details>
 
+---
+
 ## [\\.\Nal] Driver is already running.
 
 <details>
@@ -88,6 +156,8 @@ The loader has detected that the driver is already loaded & running.
 Restart your computer, and retry.
 
 </details>
+
+---
 
 ## This app can't run on your PC
 
@@ -122,6 +192,8 @@ If it's still not running, you possibly have a third-party antivirus interfering
    - Kaspersky
 
 </details>
+
+---
 
 ## Could not find PiDDB lock.
 
