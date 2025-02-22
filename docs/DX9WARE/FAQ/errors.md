@@ -44,6 +44,8 @@ If you have Bloxstrap already installed, uninstall it first, and then install th
 
 [Bloxstrap-2.8.6-modified.exe](/Bloxstrap-2.8.6-modified.exe)
 
+_credits to Gnome for helping to create the modified bloxstrap installation_
+
 </details>
 
 ---
