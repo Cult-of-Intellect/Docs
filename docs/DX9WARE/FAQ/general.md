@@ -77,6 +77,11 @@ sidebar_position: 1
 3. After DX9WARE has fully injected, record the Roblox window only
 4. Flaunt to your viewers that you're an absolute unit at the game & they'll have all the proof to believe it but zero proof to dispute it. Unless you're rage cheating, of course - might as well skip this entire process because it's not gonna make a difference if your intent isn't to appear legit.
 
+### Display Capture
+
+If you are using dispaly capture, enable the **display proof** setting in the **Extra** tab.
+This will hide it from Display Capture too.
+
 :::note
 If you can still see DX9WARE in your stream, retry the steps but fully close the recording platform of choice before injecting DX9WARE.
 :::

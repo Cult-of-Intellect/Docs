@@ -54,8 +54,8 @@
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|✅|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |Fullbright|Increases the brightness of everything|✅|
-    |Set Time|Locally sets the game time|✅|
+    |Fullbright|Increases the brightness of everything|❌|
+    |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|✅|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
     |Health Check|Makes low health enemies not visualized|✅|
@@ -85,6 +85,7 @@
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
     |Highlight hit|Highlights the enemy's avatar on every hit|✅|
+    |Multi-point|N/A|✅|
     |Sound hit|Plays a sound on every hit|✅|
     |Randomise Part|Dynamically alters the part being locked to|✅|
     |Randomize Hit|Dynamically changes hit within a body part|✅|
@@ -269,8 +270,11 @@
     |Noclip|Unclips the local player|✅|
     |Fly|Enables fly|✅|
     |Desync|Enables desync / lag switch|✅|
+    |Auto Strafe|Enables auto strafe|✅|
+    |Speedhack|Enables speedhack|✅|
     |Jumphack|Enables jump hack|✅|
     |Hiphack|Enables hip hack|✅|
+    |Bhop|Enables Bhop|✅|
 
 </details>
 
@@ -280,7 +284,9 @@
     |Feature|Description|Status|
     |-|-|-|
     |Bypass Anti-Char|Bypasses some anti cheats|✅|
-    |Join Discord Server|Links to the Cult of Intellect discord server|✅|
+    |Display Proof|Enables DX9WARE display proof|✅|
+    |Watermark|Adds watermark onto screen|✅|
+    |Show hotkeys|Shows a panel on the right of hotkeys and ones being used|✅|
 
 </details>
 
