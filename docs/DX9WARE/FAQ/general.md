@@ -79,7 +79,7 @@ sidebar_position: 1
 
 ### Display Capture
 
-If you are using dispaly capture, enable the **display proof** setting in the **Extra** tab.
+If you are using display capture, enable the **display proof** setting in the **Extra** tab.
 This will hide it from Display Capture too.
 
 :::note
