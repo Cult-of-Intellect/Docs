@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Features
 
 ✅ = Working
@@ -101,8 +105,6 @@
     |FOV Size|Adjusts the size of FOV circle|✅|
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
-    |Smoothness|Changes how smooth the lock is|✅|
-    |Sensitivity|Changes the sensitivity of the lock|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
 
 </details>
