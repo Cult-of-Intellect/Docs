@@ -37,6 +37,8 @@ ROBLOX account is not using the LIVE channel.
 To help make things easier for users, we have created a modified version of Bloxstrap which forces the LIVE channel, disables telemetry, and disables Bloxstrap's ability to update.
 
 :::danger
+**You should uninstall ROBLOX completely first, and then install this.**
+
 If you have Bloxstrap already installed, uninstall it first, and then install the file below.
 :::
 
