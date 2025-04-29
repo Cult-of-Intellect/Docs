@@ -93,6 +93,8 @@ sidebar_position: 2
     |Sound hit|Plays a sound on every hit|✅|
     |Randomise Part|Dynamically alters the part being locked to|✅|
     |Randomize Hit|Dynamically changes hit within a body part|✅|
+    |Custom Mouse|Appears when 'Movement Speed' in Miscellaneous is changed to: Custom. Set custom and maximum speed of the aimbot|✅|
+    
 
 </details>
 

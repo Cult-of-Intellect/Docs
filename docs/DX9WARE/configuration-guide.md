@@ -82,6 +82,11 @@ Here's a short video of all the necessary config settings to get aimbot to work 
 <video src="/video/dx9ware/aimbot-config.mp4" Width="400" height="240" controls preload="none"></video>
 _video credits: cropw_
 
+## Teleporting Between Games
+:::warning
+If you are teleported between games, you need to press the **Rescan** button on the menu. 
+:::
+
 :::info[Still not working?]
 If the aimbot or ESP does not work, it means that the game uses custom character models.
 
