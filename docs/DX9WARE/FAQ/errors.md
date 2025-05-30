@@ -60,6 +60,15 @@ If you are still experiencing the issue after following all the steps above and 
 https://support.microsoft.com/en-gb/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0
 :::
 
+## Update 30 May 2025
+:::warning
+Every windows update after those above will also contain the update that causes infinite loading. Try and uninstall all recent windows updates and then pause updates so Windows doesn't install them again. 
+
+If it still doesn't work, you will have to wait until a fix is released.
+
+Create a ticket in our discord server ASAP so you can claim compensation for your subscription time once it is fixed. Comepnsation time will start from the ticket creation date.
+:::
+
 </details>
 
 ---
