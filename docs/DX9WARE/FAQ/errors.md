@@ -48,27 +48,6 @@ If you have Bloxstrap already installed, uninstall it first, and then install th
 
 _credits to Gnome for helping to create the modified bloxstrap installation_
 
-## Update 29th April 2025
-:::warning
-It has come to our attention that a recent windows update (24H2 KB5055627 - OS Build 26100.3915), (23H2 KB5055629) will also cause the infinite loading issue.
-
-If you are still experiencing the issue after following all the steps above and you are on this windows build or have this windows update installed, you can **uninstall it** provided it was installed recently.
-
-- 24H2: KB5055627
-- 23H2: KB5055629
-
-https://support.microsoft.com/en-gb/windows/how-to-uninstall-a-windows-update-c77b8f9b-e4dc-4e9f-a803-fdec12e59fb0
-:::
-
-## Update 30 May 2025
-:::warning
-Every windows update after those above will also contain the update that causes infinite loading. Try and uninstall all recent windows updates and then pause updates so Windows doesn't install them again. 
-
-If it still doesn't work, you will have to wait until a fix is released.
-
-Create a ticket in our discord server ASAP so you can claim compensation for your subscription time once it is fixed. Comepnsation time will start from the ticket creation date.
-:::
-
 </details>
 
 ---
