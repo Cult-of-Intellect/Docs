@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ⚠️ = Use with caution (server ban risk)
 
-✖️ = Not working
+❌ = Not working
 
 <details>
 <summary>Visuals</summary>
@@ -41,7 +41,7 @@ sidebar_position: 2
     |-|-|-|
     |Team ESP|Enables visuals for all players, regardless of teams (FFA)|✅|
     |Team Name|Visualizes team names|✅|
-    |Team Based ESP Colors|Uses server's team colors for team visuals|✅|
+    |Team Based ESP Colors|Uses server's team colors for team visuals|❌|
     |Team Members|Visualizes teammates green and enemies red|✅|
 
 </details>
@@ -56,11 +56,11 @@ sidebar_position: 2
     |Distance Limited|Caps visual features at a specified distance|✅|
     |Enable Rainbow Colors|Rainbowfies visuals|✅|
     |Add ESP Background|Adds a color customizable background to visuals|✅|
-    |Radar|A FPS-style radar that maps enemies|✅|
+    |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
     |Fullbright|Increases the brightness of everything|❌|
     |Set Time|Locally sets the game time|❌|
-    |Show UI On Startup|Whether the UI is shown on startup|✅|
+    |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
     |Health Check|Makes low health enemies not visualized|✅|
     |Select Font|Changes the font of visuals|✅|
@@ -77,19 +77,19 @@ sidebar_position: 2
     |Feature|Description|Status|
     |-|-|-|
     |Enable|Whether aimbot features are enabled|✅|
-    |Detect View|Detects first/third person camera mode & adjusts lock|✅|
+    |Detect View|Detects first/third person camera mode & adjusts lock|❌|
     |Show FOV|Shows the specified field of view|✅|
     |Horizontal Prediction|Predicts the enemy's horizontal movement|✅|
     |Vertical Prediction|Predicts the enemy's vertical movement|✅|
     |Flick Aim|Mimics a flick shot on enemies|✅|
-    |Wallcheck|Restricts aimlock to visible enemies|✖️|
-    |Triggerbot|Automatically shoots enemies on lock|✖️|
+    |Wallcheck|Restricts aimlock to visible enemies|❌|
+    |Triggerbot|Automatically shoots enemies on lock|❌|
     |Silent Aim|Directs lock to player without visually locking on them|✅|
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
     |Highlight hit|Highlights the enemy's avatar on every hit|✅|
-    |Multi-point|N/A|✅|
+    |Multi-point|N/A|❌|
     |Sound hit|Plays a sound on every hit|✅|
     |Randomise Part|Dynamically alters the part being locked to|✅|
     |Randomize Hit|Dynamically changes hit within a body part|✅|
@@ -130,7 +130,7 @@ sidebar_position: 2
     |Bezier Curve Type|The type of curve for bezier path feature|✅|
     |Step Smoothing|Path smoothing when locking|✅|
     |Reset Calibration|Resets FOV x and y and levels|✅|
-    |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|✅|
+    |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|❌|
 
 </details>
 
@@ -245,8 +245,8 @@ sidebar_position: 2
     |-|-|-|
     |Menu Toggle|Hotkey to toggle the UI|✅|
     |Fly Toggle|Hotkey to fly|✅|
-    |Aimbot Toggle|Hotkey to toggle aimbot features|✅|
-    |ESP Toggle|Hotkey to toggle visual features|✅|
+    |Aimbot Toggle|Hotkey to toggle aimbot features|❌|
+    |ESP Toggle|Hotkey to toggle visual features|❌|
     |Unfair Aimbot Toggle|Hotkey to toggle unfair aimbot|✅|
     |Triggerbot Toggle|Hotkey to toggle triggerbot|✅|
     |Untoggle All|Untoggles all features|✅|
@@ -256,7 +256,7 @@ sidebar_position: 2
     |Jumphack toggle|Hotkey to jump hack|✅|
     |Hiphack toggle|Hotkey to hip hack|✅|
     |Desync toggle|Hotkey to desync|✅|
-    |Noclip hold|Hotkey to noclip|✅|
+    |Noclip hold|Hotkey to noclip|❌|
 
 </details>
 
