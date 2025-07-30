@@ -24,29 +24,24 @@ Follow all the steps in the [initial setup guide](/dx9ware/initial-setup).
 ---
 
 ## Infinite Loading (Loading stuck)
+![inf load](/img/dx9ware/infiniteload.png)
 
 <details>
-  <summary>Click me to expand error details. <br /> <br /> ![inf load](/img/dx9ware/infiniteload.png)</summary>
+  <summary>Click me to expand error details. <br /> <br /> </summary>
 
 #### Issue
 
-ROBLOX account is not using the LIVE channel.
+Your ROBLOX account is not using the live/production channel.
 
 #### Fix
 
-To help make things easier for users, we have created a modified version of Bloxstrap which forces the LIVE channel, disables telemetry, and disables Bloxstrap's ability to update.
+Use a ROBLOX launcher such as Fishstrap and change the channel to production.
 
-:::danger
-**You should uninstall ROBLOX completely first, and then install this.**
-
-If you have Bloxstrap already installed, uninstall it first, and then install the file below.
-:::
-
-**You do NOT need to have Bloxstrap before installing this. Using this installation of Bloxstrap should fix your problem regardless of if you used Bloxstrap before or not.**
-
-[Bloxstrap-2.8.6-modified.exe](/Bloxstrap-2.8.6-modified.exe)
-
-_credits to Gnome for helping to create the modified bloxstrap installation_
+1. Uninstall ROBLOX completely
+1. Download [Fishstrap](https://www.fishstrap.app/)
+2. Go to Fishstrap 'Deployment' settings and configure as per the below image.
+![fishstrap settings](/img/dx9ware/fishstrap-settings.png)
+3. Whenever you want to play ROBLOX , open Fishstrap and launch ROBLOX through Fishstrap. This will always put you onto the production channel. There is no need to install ROBLOX again from roblox website.
 
 :::warning
 ### Update 15 June 2025
@@ -58,7 +53,7 @@ If you are on 23H2 you will have to upgrade to 24H2.
 Check in Windows Update if the feature update to 24H2 is available, if not you can manually install it using this tool from Microsoft:
 https://www.microsoft.com/en-us/software-download/windows11
 
-Once you are on 24H2 it should work, you may need to do the Bloxstrap steps above too, to get you onto the live channel.
+Once you are on 24H2 it should work, you may still need to do Fishstrap steps above too, to get you onto the live channel.
 :::
 
 </details>
