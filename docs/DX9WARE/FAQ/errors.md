@@ -24,10 +24,9 @@ Follow all the steps in the [initial setup guide](/dx9ware/initial-setup).
 ---
 
 ## Infinite Loading (Loading stuck)
-![inf load](/img/dx9ware/infiniteload.png)
 
 <details>
-  <summary>Click me to expand error details. <br /> <br /> </summary>
+  <summary>Click me to expand error details. <br /> <br /> ![inf load](/img/dx9ware/infiniteload.png)</summary>
 
 #### Issue
 
