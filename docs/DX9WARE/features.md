@@ -271,7 +271,7 @@ sidebar_position: 2
     |Feature|Description|Status|
     |-|-|-|
     |Disable jump cooldown|Disables Roblox's jump time limit|✅|
-    |Noclip|Unclips the local player|✅|
+    |Noclip|Unclips the local player|❌|
     |Fly|Enables fly|✅|
     |Desync|Enables desync / lag switch|✅|
     |Auto Strafe|Enables auto strafe|✅|
