@@ -38,6 +38,8 @@ The below steps apply if you are using Windows Defender as your antivirus. <br /
 If you are using a third-party antivirus, it will look different, however the same idea applies.
 :::
 
+
+
 1. [Open the Windows Security app (click for video)](https://www.youtube.com/watch?v=0wr1gIY6G2I)
 2. Go to `Virus & threat protection`
 3. Click `Manage settings` under `Virus & threat protection settings`.
@@ -45,7 +47,7 @@ If you are using a third-party antivirus, it will look different, however the sa
 5. Press `+ Add an exclusion` and choose `Folder`
 6. Exclude the two folders from [above](#1-dx9ware-anti-virus-exclusions)
 
-[Click me for a Video Tutorial on adding exclusions.](https://www.youtube.com/watch?v=-Q9yT8XSMjg&t=83)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3vpY_-kbRA?si=LYFRTQVO4exVQDnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Your exclusions page should look something like this:<br />
 ![DX9WARE AV Exclusions](/img/dx9ware/dx9ware-av-exclusions.png)
