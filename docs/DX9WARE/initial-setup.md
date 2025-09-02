@@ -24,6 +24,8 @@ It is important that your windows account is an administrator and can run the lo
 
 ## 2. DX9WARE Anti-Virus Exclusions
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3vpY_-kbRA?si=LYFRTQVO4exVQDnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 These folders must be excluded from your anti-virus:
 
 1. The folder containing your `loader.exe` and `updater.exe`.
@@ -47,8 +49,6 @@ If you are using a third-party antivirus, it will look different, however the sa
 5. Press `+ Add an exclusion` and choose `Folder`
 6. Exclude the two folders from [above](#1-dx9ware-anti-virus-exclusions)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3vpY_-kbRA?si=LYFRTQVO4exVQDnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Your exclusions page should look something like this:<br />
 ![DX9WARE AV Exclusions](/img/dx9ware/dx9ware-av-exclusions.png)
 
@@ -57,6 +57,15 @@ Your exclusions page should look something like this:<br />
 :::info
 Only required on Windows 11 due to additional security added by Microsoft.
 :::
+
+--- 
+
+### .bat file
+The `.bat` file will perform all of Step #3 automatically. It will disable Memory Integrity & Vulnerable Driver Blocklist via registry and then prompt for a PC Restart. However, if you don't trust it, you can do the below steps manually.
+
+[dx9ware-core-isolation-config.bat](/assets/dx9ware-core-isolation-config.bat)
+
+--- 
 
 1. [Open the Windows Security app (click for video)](https://www.youtube.com/watch?v=0wr1gIY6G2I)
 2. Go to `Device security`
