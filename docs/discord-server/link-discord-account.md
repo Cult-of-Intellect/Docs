@@ -1,5 +1,5 @@
 ---
-sidebar_label: Connect Discord Account
+sidebar_label: How do I connect my discord account?
 ---
 
 # How do I link my discord account to my Cult of Intellect account?
