@@ -30,9 +30,10 @@ Follow all the steps in the [initial setup guide](/dx9ware/initial-setup).
 
 #### Issue
 
-Your ROBLOX account is not using the live/production channel.
+Most commonly, your ROBLOX account is not using the live/production channel<br/>
+Secondly, there could be a stuck ROBLOX process in Task Manager.
 
-#### Fix
+#### Fix #1 (Channel)
 
 Use a ROBLOX launcher such as Fishstrap and change the channel to production.
 
@@ -41,6 +42,10 @@ Use a ROBLOX launcher such as Fishstrap and change the channel to production.
 2. Go to Fishstrap 'Deployment' settings and configure as per the below image.
 ![fishstrap settings](/img/dx9ware/fishstrap-settings.png)
 3. Whenever you want to play ROBLOX , open Fishstrap and launch ROBLOX through Fishstrap. This will always put you onto the production channel. There is no need to install ROBLOX again from roblox website.
+
+#### Fix #2 (Stuck ROBLOX Process)
+
+Restart your PC, or Open Task Manager and kill any Roblox processes and retry.
 
 :::warning
 ### Update 15 June 2025
@@ -55,7 +60,10 @@ https://www.microsoft.com/en-us/software-download/windows11
 Once you are on 24H2 it should work, you may still need to do Fishstrap steps above too, to get you onto the live channel.
 :::
 
+
+
 </details>
+
 
 
 ---
