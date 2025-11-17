@@ -14,7 +14,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "https://docs.cultofintellect.com/",
   baseUrl: "/",
 
   onBrokenLinks: "throw",
