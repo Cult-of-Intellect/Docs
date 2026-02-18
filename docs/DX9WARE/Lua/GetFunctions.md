@@ -287,12 +287,26 @@ GetMouse()
 **Syntax**
 
 ```go
-GetNumValue(<pointer> IntValueInstance)
+GetNumValue(<pointer> NumberValueInstance)
 ```
 
 **Returns**
 
-- the number value of an **IntValue** instance.
+- the number value of an **NumberValue** instance.
+
+---
+
+## GetIntValue
+
+**Syntax**
+
+```go
+GetIntValue(<pointer> IntValueInstance)
+```
+
+**Returns**
+
+- the int value of an **IntValue** instance.
 
 ---
 
