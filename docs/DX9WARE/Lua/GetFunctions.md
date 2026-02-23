@@ -699,3 +699,17 @@ get_localplayer()
 2. **get_localplayer().Info** - Has values name, distance and health.
 
 ---
+
+## GetMaterial
+
+Get a parts material value. (https://create.roblox.com/docs/reference/engine/enums/Material)
+
+**Syntax**
+
+```go
+GetMaterial(instance)
+```
+
+**Returns**
+
+material number value - https://create.roblox.com/docs/reference/engine/enums/Material
