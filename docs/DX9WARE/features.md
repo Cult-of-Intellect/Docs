@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Features
@@ -219,7 +219,7 @@ sidebar_position: 2
 
     |Feature|Description|Status|
     |-|-|-|
-    |LUA|The DX9WARE lua executor|✅|
+    |LUA|The dx9ware lua executor|✅|
 
 </details>
 
@@ -288,7 +288,7 @@ sidebar_position: 2
     |Feature|Description|Status|
     |-|-|-|
     |Bypass Anti-Char|Bypasses some anti cheats|✅|
-    |Display Proof|Enables DX9WARE display proof|✅|
+    |Display Proof|Enables dx9ware display proof|✅|
     |Watermark|Adds watermark onto screen|✅|
     |Show hotkeys|Shows a panel on the right of hotkeys and ones being used|✅|
 

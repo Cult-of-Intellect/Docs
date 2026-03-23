@@ -1,11 +1,11 @@
 ---
 slug: /dx9ware/initial-setup
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Initial Setup Guide
 
-So, you have just purchased DX9WARE. These are the required steps to configure your PC to run DX9WARE without any problems.
+So, you have just purchased dx9ware. These are the required steps to configure your PC to run dx9ware without any problems.
 If you fail to complete all of these steps, you can expect to see errors.
 
 ## Ensuring Maximum Security
@@ -14,7 +14,7 @@ If you fail to complete all of these steps, you can expect to see errors.
 If you would like to ensure maximum security to protect yourself from bans and detections:
 
 - Make sure no other kernel anti-cheats are running on your computer.
-- After you're done using DX9WARE, restart your system.
+- After you're done using dx9ware, restart your system.
 
 :::
 
@@ -22,7 +22,7 @@ If you would like to ensure maximum security to protect yourself from bans and d
 
 It is important that your windows account is an administrator and can run the loader without needing to enter a different username & password.
 
-## 2. DX9WARE Anti-Virus Exclusions
+## 2. dx9ware Anti-Virus Exclusions
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3vpY_-kbRA?si=LYFRTQVO4exVQDnz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-DX9WARE runs a vanilla lua `5.1.4` build with an additional dx9ware library accessed via `dx9`. This has no affiliation with roblox's lua environment.
+dx9ware runs a vanilla lua `5.1.4` build with an additional dx9ware library accessed via `dx9`. This has no affiliation with roblox's lua environment.
 
 ## How does the LUA tab work?
 

@@ -1,13 +1,13 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 sidebar_label: Getting Started
 ---
 
 # Getting Started
 
-So, you've just loaded up DX9WARE but having trouble with getting started. This could be simply having trouble opening the interface or having trouble configuring it.
+So, you've just loaded up dx9ware but having trouble with getting started. This could be simply having trouble opening the interface or having trouble configuring it.
 
-For new users DX9WARE can be overwhelming to use.
+For new users dx9ware can be overwhelming to use.
 
 
 ## Opening the interface
@@ -19,13 +19,13 @@ This can be changed in the hotkey settings.
 
 ## ESP
 
-To make this simple for you, the first step should be enabling ESP to ensure DX9WARE will work on the game you are loaded into.
+To make this simple for you, the first step should be enabling ESP to ensure dx9ware will work on the game you are loaded into.
 
 1. Open the user interface
 2. Go to `Visuals` -> `ESP` and press `Enable` ![enable-esp](/img/dx9ware/enable-esp.png)
 
 
-ESP is now enabled, however if you are in a Free-For-All game or a game that does not make use of ROBLOX teams, you should enable `Team ESP`. This is a good way of testing to see if DX9WARE works in your game.
+ESP is now enabled, however if you are in a Free-For-All game or a game that does not make use of ROBLOX teams, you should enable `Team ESP`. This is a good way of testing to see if dx9ware works in your game.
 
 1. Go to `Visuals` -> `Team`
 2. Enable `Team ESP`
@@ -72,13 +72,13 @@ The following sections below are important to get aimbot to work successfully.
 
 #### Configure Free For All setting
 
-6. If you are playing a game with no teams. (Da Hood, Criminality, etc...), then enable **Free For All** otherwise DX9WARE aimbot will not work, because by default it will only lock for players on the enemy team.
+6. If you are playing a game with no teams. (Da Hood, Criminality, etc...), then enable **Free For All** otherwise dx9ware aimbot will not work, because by default it will only lock for players on the enemy team.
 
 ![enable-free-for-all](/img/dx9ware/enable-free-for-all.png)
 
 #### Set Aimlock Method
 
-7. By default DX9WARE will set aimlock method to `Auto`.<br/>
+7. By default dx9ware will set aimlock method to `Auto`.<br/>
    This **only works on first person games**.<br/>
    `Auto` mode will automatically aimlock. If you are playing a third person game or you do not want auto aimlock, change this to `Hotkey button`
 
@@ -94,7 +94,7 @@ The following sections below are important to get aimbot to work successfully.
 
 ![set-aimbot-hotkeys](/img/dx9ware/set-aimbot-hotkeys.png)
 
-9. Close the interface and begin aimbotting by holding down your hotkey if set. DX9WARE will only aimbot on players **in your FOV** and **in range** _(configurable in `Aimbot` -> `Modifiers`)_
+9. Close the interface and begin aimbotting by holding down your hotkey if set. dx9ware will only aimbot on players **in your FOV** and **in range** _(configurable in `Aimbot` -> `Modifiers`)_
 
 ![aimbot-modifiers](/img/dx9ware/aimbot-modifiers.png)
 

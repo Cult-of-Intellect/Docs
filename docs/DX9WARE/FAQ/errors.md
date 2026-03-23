@@ -50,7 +50,7 @@ Restart your PC, or Open Task Manager and kill any Roblox processes and retry.
 :::warning
 ### Update 15 June 2025
 
-The latest builds of Windows 11 23H2 break DX9WARE and you will get the infinite load problem. You can check if you are on Windows 11 23H2 by following steps here [here](https://learn.microsoft.com/en-us/windows/client-management/client-tools/windows-version-search#using-keyword-search).
+The latest builds of Windows 11 23H2 break dx9ware and you will get the infinite load problem. You can check if you are on Windows 11 23H2 by following steps here [here](https://learn.microsoft.com/en-us/windows/client-management/client-tools/windows-version-search#using-keyword-search).
 
 
 If you are on 23H2 you will have to upgrade to 24H2.
@@ -75,7 +75,7 @@ Once you are on 24H2 it should work, you may still need to do Fishstrap steps ab
 
 #### Issue
 
-Your computer is missing Visual C++ Redistributables which is required to run DX9WARE.
+Your computer is missing Visual C++ Redistributables which is required to run dx9ware.
 
 #### Fix
 
@@ -130,7 +130,7 @@ Vanguard anticheat is running.
 
 #### Issue
 
-DX9WARE makes use of DirectX11. This is usually already installed on most gamers machines, however if something is corrupted or missing. You may experience this error.
+dx9ware makes use of DirectX11. This is usually already installed on most gamers machines, however if something is corrupted or missing. You may experience this error.
 
 #### Fix
 
@@ -190,7 +190,7 @@ An antivirus is blocking access to the file.
 
 #### Fix
 
-Firstly, check you have added the necessary exclusions for DX9WARE. You can find these in the [initial setup guide](/dx9ware/initial-setup)
+Firstly, check you have added the necessary exclusions for dx9ware. You can find these in the [initial setup guide](/dx9ware/initial-setup)
 Restart your computer, and retry.
 
 If it's still not running, you possibly have a third-party antivirus interfering.

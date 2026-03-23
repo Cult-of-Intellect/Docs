@@ -22,7 +22,7 @@ If you have any custom requests like time, non-buyers only, or anything else, fe
 
 ## When's the next giveaway?
 
-In order for a DX9WARE giveaway to happen, either:
+In order for a dx9ware giveaway to happen, either:
 
 - Someone must **contribute to one by buying a key and asking staff to host a giveaway for them.**
 - A large, **significant milestone or event**, including holidays, must take place.
