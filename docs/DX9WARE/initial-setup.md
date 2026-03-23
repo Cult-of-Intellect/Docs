@@ -47,7 +47,7 @@ If you are using a third-party antivirus, it will look different, however the sa
 3. Click `Manage settings` under `Virus & threat protection settings`.
 4. Scroll down & click `Add or remove exclusions`
 5. Press `+ Add an exclusion` and choose `Folder`
-6. Exclude the two folders from [above](#1-dx9ware-anti-virus-exclusions)
+6. Exclude the two folders from [above](#2-dx9ware-anti-virus-exclusions)
 
 Your exclusions page should look something like this:<br />
 ![DX9WARE AV Exclusions](/img/dx9ware/dx9ware-av-exclusions.png)

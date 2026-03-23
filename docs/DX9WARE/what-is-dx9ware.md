@@ -15,4 +15,4 @@ Learn more about dx9ware at https://cultofintellect.com/dx9ware/.
 
 # Frequently Asked Questions (FAQ)
 
-If you have any other questions about dx9ware, check out the [FAQ](/dx9ware/FAQ/general).
+If you have any other questions about dx9ware, check out the [FAQ](/DX9WARE/FAQ/general).
