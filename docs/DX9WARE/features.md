@@ -31,7 +31,9 @@ sidebar_position: 3
     |Chams|Outlines the enemy character with the finest detail|✅|
     |Offscreen Arrows|Shows arrows for enemies off the screen|✅|
     |Show Distance|Shows the distance of the enemy|✅|
-    |Show Player Name|Shows the name of the enemy|✅|
+    |Show Player Name|Sho✅ws the name of the enemy|✅|
+    |See Through Players|This will render targets see-through|✅|
+    |See Through Players Targeting|5 types, Enemy, Teammates, All, Others, Local|✅|
 </details>
 
 <details>
@@ -82,8 +84,8 @@ sidebar_position: 3
     |Horizontal Prediction|Predicts the enemy's horizontal movement|✅|
     |Vertical Prediction|Predicts the enemy's vertical movement|✅|
     |Flick Aim|Mimics a flick shot on enemies|✅|
-    |Wallcheck|Restricts aimlock to visible enemies|❌|
-    |Triggerbot|Automatically shoots enemies on lock|❌|
+    |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
+    |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
     |Silent Aim|Directs lock to player without visually locking on them|✅|
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
@@ -245,8 +247,8 @@ sidebar_position: 3
     |-|-|-|
     |Menu Toggle|Hotkey to toggle the UI|✅|
     |Fly Toggle|Hotkey to fly|✅|
-    |Aimbot Toggle|Hotkey to toggle aimbot features|❌|
-    |ESP Toggle|Hotkey to toggle visual features|❌|
+    |Aimbot Toggle|Hotkey to toggle aimbot features|✅|
+    |ESP Toggle|Hotkey to toggle visual features|✅|
     |Unfair Aimbot Toggle|Hotkey to toggle unfair aimbot|✅|
     |Triggerbot Toggle|Hotkey to toggle triggerbot|✅|
     |Untoggle All|Untoggles all features|✅|
@@ -256,7 +258,8 @@ sidebar_position: 3
     |Jumphack toggle|Hotkey to jump hack|✅|
     |Hiphack toggle|Hotkey to hip hack|✅|
     |Desync toggle|Hotkey to desync|✅|
-    |Noclip hold|Hotkey to noclip|❌|
+    |Noclip hold|Hotkey to noclip|✅|
+    |Click TP|Click to TP hotkey|✅|
 
 </details>
 
@@ -279,6 +282,7 @@ sidebar_position: 3
     |Jumphack|Enables jump hack|✅|
     |Hiphack|Enables hip hack|✅|
     |Bhop|Enables Bhop|✅|
+    |Click to TP|Enables Click to TP|✅|
 
 </details>
 
