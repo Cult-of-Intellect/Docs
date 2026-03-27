@@ -31,7 +31,7 @@ sidebar_position: 3
     |Chams|Outlines the enemy character with the finest detail|✅|
     |Offscreen Arrows|Shows arrows for enemies off the screen|✅|
     |Show Distance|Shows the distance of the enemy|✅|
-    |Show Player Name|Sho✅ws the name of the enemy|✅|
+    |Show Player Name|Shows the name of the enemy|✅|
     |See Through Players|This will render targets see-through|✅|
     |See Through Players Targeting|5 types, Enemy, Teammates, All, Others, Local|✅|
 </details>
