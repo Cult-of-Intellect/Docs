@@ -34,6 +34,8 @@ sidebar_position: 3
     |Show Player Name|Shows the name of the enemy|✅|
     |See Through Players|This will render targets see-through|✅|
     |See Through Players Targeting|5 types, Enemy, Teammates, All, Others, Local|✅|
+    |Show Occluded|Shows non-visible players in a different colour|✅|
+    |Show Occluded Color|Set the color to show occluded (hidden) players.|✅|
 </details>
 
 <details>
@@ -60,7 +62,7 @@ sidebar_position: 3
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |Fullbright|Increases the brightness of everything|❌|
+    |Fullbright|Increases the brightness of everything|✅|
     |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
@@ -122,6 +124,7 @@ sidebar_position: 3
     |Third Person|Optimizes lock for third person and shift-lock|✅|
     |Free For All|Targets everybody, regardless of teams|✅|
     |Sticky Aim|Will continue locking until the end of hold|✅|
+    |Sticky Aim - Reset on Occluded|When wallcheck is enabled and sticky aim is too, if the player goes behind a wall - sticky aim will reset its targeting.|✅|
     |Ignore Ghost|Excludes ghost/invisible players from lock|✅|
     |Movement Method|The type of camera mode used for lock|✅|
     |Movement Speed|The travel speed at which it locks|✅|
@@ -133,6 +136,7 @@ sidebar_position: 3
     |Step Smoothing|Path smoothing when locking|✅|
     |Reset Calibration|Resets FOV x and y and levels|✅|
     |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|❌|
+    |Mouse Sensitivity|Set this to your camera sensitivity in Roblox.|✅|
 
 </details>
 
