@@ -19,6 +19,13 @@ This can be changed in the hotkey settings.
 
 ## ESP
 
+#### ESP Config Tutorial Video
+
+Here's a quick video with ESP being enabled in a basic baseplate game.
+
+<video src="/video/dx9ware/esp-config.mp4" Width="640" height="360" controls autoplay muted loop></video>
+_video credits: cropw_
+
 To make this simple for you, the first step should be enabling ESP to ensure dx9ware will work on the game you are loaded into.
 
 1. Open the user interface
@@ -38,14 +45,20 @@ Close the interface using `F1` again to see the ESP.
 
 #### Further Configuration
 
-From here, you can configure the ESP to your liking. Change the colour, add chams/skeleton etc. Here's a quick video with ESP being enabled in a basic baseplate game.
-
-<video src="/video/dx9ware/esp-config.mp4" Width="400" height="240" controls preload="none"></video>
-_video credits: cropw_
+From here, you can configure the ESP to your liking. Change the colour, add chams/skeleton etc.
 
 ---
 
 ## Aimbot
+
+### Aimbot Config Tutorial Video
+
+Here's a short video of all the necessary config settings to get aimbot to work in a basic third person game with no teams.
+
+<video src="/video/dx9ware/aimbot-config.mp4" Width="640" height="360" controls autoplay="1" muted loop></video>
+_video credits: cropw_
+
+---
 
 Follow these steps carefully to get a basic aimbot working.
 
@@ -97,13 +110,6 @@ The following sections below are important to get aimbot to work successfully.
 9. Close the interface and begin aimbotting by holding down your hotkey if set. dx9ware will only aimbot on players **in your FOV** and **in range** _(configurable in `Aimbot` -> `Modifiers`)_
 
 ![aimbot-modifiers](/img/dx9ware/aimbot-modifiers.png)
-
-### Aimbot Config Tutorial Video
-
-Here's a short video of all the necessary config settings to get aimbot to work in a basic third person game with no teams.
-
-<video src="/video/dx9ware/aimbot-config.mp4" Width="400" height="240" controls preload="none"></video>
-_video credits: cropw_
 
 ---
 

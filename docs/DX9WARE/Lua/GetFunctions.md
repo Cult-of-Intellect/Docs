@@ -46,7 +46,7 @@ GetCFrame(BasePart)
 
 **Returns**
 
-- CFrame matrix, CFrame.RightVector, CFrame.LookVector, CFrame.UpVector
+- CFrame matrix, CFrame.RightVector, CFrame.LookVector, CFrame.UpVector, CFrame.Position
 
 ---
 
