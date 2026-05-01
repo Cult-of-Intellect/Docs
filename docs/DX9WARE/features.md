@@ -4,8 +4,8 @@ sidebar_position: 3
 
 # Features
 
-✅ = Working
-⚠️ = Use with caution (server ban risk)
+✅ = Working\
+⚠️ = Use with caution (server ban risk)\
 ❌ = Not working
 
 <details>
