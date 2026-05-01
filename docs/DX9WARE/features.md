@@ -88,10 +88,10 @@ sidebar_position: 3
     |Flick Aim|Mimics a flick shot on enemies|✅|
     |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
     |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
-    |Silent Aim|Directs lock to player without visually locking on them|✅|⚠️
-    |Magic Bullet|Wallbang accross the map|✅|⚠️
+    |Silent Aim|Directs lock to player without visually locking on them|✅⚠️|
+    |Magic Bullet|Wallbang accross the map|✅⚠️|
     |Enemy mode|Targets a (specified) player to lock to|✅|
-    |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
+    |Unfair Aimbot|Continously teleports areas around the enemy|✅⚠️|
     |Display Target|Visualizes the current target|✅|
     |Highlight hit|Highlights the enemy's avatar on every hit|✅|
     |Multi-point|N/A|❌|
