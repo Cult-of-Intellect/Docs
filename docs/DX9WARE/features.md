@@ -62,7 +62,7 @@ sidebar_position: 3
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |Fullbright|Increases the brightness of everything|✅|
+    |Fullbright|Increases the brightness of everything|✅ (:ex only)|
     |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
@@ -88,8 +88,8 @@ sidebar_position: 3
     |Flick Aim|Mimics a flick shot on enemies|✅|
     |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
     |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
-    |Silent Aim|Directs lock to player without visually locking on them|✅|
-    |Magic Bullet|Wallbang shit idk ill think about a description later.|✅|⚠️
+    |Silent Aim|Directs lock to player without visually locking on them|✅|⚠️
+    |Magic Bullet|Wallbang accross the map|✅|⚠️
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
