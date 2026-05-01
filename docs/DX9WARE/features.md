@@ -111,6 +111,7 @@ sidebar_position: 3
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
+    |Mouse Sens|Sensitivity of the mouse aimbot<br />TIP: Match the value with your Roblox sensitivity|✅|
 
 </details>
 
