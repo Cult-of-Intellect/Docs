@@ -89,6 +89,7 @@ sidebar_position: 3
     |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
     |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
     |Silent Aim|Directs lock to player without visually locking on them|✅|
+    |Magic Bullet|Wallbang shit idk ill think about a description later.|✅|⚠️
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
