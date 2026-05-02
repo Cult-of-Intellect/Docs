@@ -4,11 +4,10 @@ sidebar_position: 3
 
 # Features
 
-✅ = Working
-
-⚠️ = Use with caution (server ban risk)
-
-❌ = Not working
+✅ = Working\
+⚠️ = Use with caution (server ban risk)\
+❌ = Not working\
+🟪 = DX9WARE:EX only features
 
 <details>
 <summary>Visuals</summary>
@@ -113,6 +112,7 @@ sidebar_position: 3
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
+    |Mouse Sens|Sensitivity of the mouse aimbot<br />TIP: Match the value with your Roblox sensitivity|✅|
 
 </details>
 
@@ -137,7 +137,6 @@ sidebar_position: 3
     |Step Smoothing|Path smoothing when locking|✅|
     |Reset Calibration|Resets FOV x and y and levels|✅|
     |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|❌|
-    |Mouse Sensitivity|Set this to your camera sensitivity in Roblox.|✅|
 
 </details>
 
