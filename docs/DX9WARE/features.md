@@ -112,6 +112,7 @@ sidebar_position: 3
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
+    |Roblox Sens|Sensitivity of the mouse aimbot<br />TIP: Match the value with your Roblox sensitivity|✅|
 
 </details>
 
@@ -136,7 +137,6 @@ sidebar_position: 3
     |Step Smoothing|Path smoothing when locking|✅|
     |Reset Calibration|Resets FOV x and y and levels|✅|
     |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|❌|
-    |Mouse Sensitivity|Set this to your camera sensitivity in Roblox.|✅|
 
 </details>
 
@@ -225,7 +225,7 @@ sidebar_position: 3
 
     |Feature|Description|Status|
     |-|-|-|
-    |LUA|The dx9ware lua executor|✅|
+    |LUA|The dx9ware lua executor<br />TIP: Paste your script there and close your menu.|✅|
 
 </details>
 
