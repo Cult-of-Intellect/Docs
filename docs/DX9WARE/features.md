@@ -4,10 +4,11 @@ sidebar_position: 3
 
 # Features
 
-✅ = Working\
-⚠️ = Use with caution (server ban risk)\
-❌ = Not working\
-🟪 = DX9WARE:EX only feature
+✅ = Working
+
+⚠️ = Use with caution (server ban risk)
+
+❌ = Not working
 
 <details>
 <summary>Visuals</summary>
@@ -90,7 +91,7 @@ sidebar_position: 3
     |<div className="purple-row-cell">Silent Aim</div>|<div className="purple-row-cell">Directs lock to player without visually locking on them</div>|<div className="purple-row-cell">✅⚠️</div>|
     |<div className="purple-row-cell">Magic Bullet</div>|<div className="purple-row-cell">Wallbang accross the map</div>|<div className="purple-row-cell">✅⚠️</div>|
     |Enemy mode|Targets a (specified) player to lock to|✅|
-    |Unfair Aimbot|Continously teleports areas around the enemy|✅⚠️|
+    |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
     |Highlight hit|Highlights the enemy's avatar on every hit|✅|
     |Multi-point|N/A|❌|
@@ -112,7 +113,6 @@ sidebar_position: 3
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
-    |Roblox Sens|Sensitivity of the mouse aimbot<br />TIP: Match the value with your Roblox sensitivity|✅|
 
 </details>
 
@@ -137,6 +137,7 @@ sidebar_position: 3
     |Step Smoothing|Path smoothing when locking|✅|
     |Reset Calibration|Resets FOV x and y and levels|✅|
     |Preview/Hide Bezier Curve|Shows a graph of the bezier curve|❌|
+    |Mouse Sensitivity|Set this to your camera sensitivity in Roblox.|✅|
 
 </details>
 
@@ -225,7 +226,7 @@ sidebar_position: 3
 
     |Feature|Description|Status|
     |-|-|-|
-    |LUA|The dx9ware lua executor<br />TIP: Paste your script there and close your menu.|✅|
+    |LUA|The dx9ware lua executor|✅|
 
 </details>
 
