@@ -6,7 +6,8 @@ sidebar_position: 3
 
 ✅ = Working\
 ⚠️ = Use with caution (server ban risk)\
-❌ = Not working
+❌ = Not working\
+🟪 = DX9WARE:EX only feature
 
 <details>
 <summary>Visuals</summary>
@@ -30,10 +31,10 @@ sidebar_position: 3
     |Offscreen Arrows|Shows arrows for enemies off the screen|✅|
     |Show Distance|Shows the distance of the enemy|✅|
     |Show Player Name|Shows the name of the enemy|✅|
-    |See Through Players|This will render targets see-through|✅|
-    |See Through Players Targeting|5 types, Enemy, Teammates, All, Others, Local|✅|
-    |Show Occluded|Shows non-visible players in a different colour|✅|
-    |Show Occluded Color|Set the color to show occluded (hidden) players.|✅|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>See Through Players</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>This will render targets see-through</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>See Through Players Targeting</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>5 types, Enemy, Teammates, All, Others, Local</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Show Occluded</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>	Shows non-visible players in a different colour</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Show Occluded Color</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Set the color to show occluded (hidden) players.</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
 </details>
 
 <details>
@@ -60,7 +61,7 @@ sidebar_position: 3
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |Fullbright|Increases the brightness of everything|✅ (:ex only)|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Fullbright</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Increases the brightness of everything</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
     |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
@@ -84,10 +85,10 @@ sidebar_position: 3
     |Horizontal Prediction|Predicts the enemy's horizontal movement|✅|
     |Vertical Prediction|Predicts the enemy's vertical movement|✅|
     |Flick Aim|Mimics a flick shot on enemies|✅|
-    |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
-    |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
-    |Silent Aim|Directs lock to player without visually locking on them|✅⚠️|
-    |Magic Bullet|Wallbang accross the map|✅⚠️|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Wallcheck</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Restricts aimlock to visible enemies</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Triggerbot</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Automatically shoots enemies on lock</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Silent Aim</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Directs lock to player without visually locking on them</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Magic Bullet</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Wallbang accross the map</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅⚠️|
     |Display Target|Visualizes the current target|✅|
@@ -111,7 +112,6 @@ sidebar_position: 3
     |FOV X Level|Adjusts the horizontal offset of the FOV circle|✅|
     |FOV Y Level|Adjusts the vertical offset of the FOV circle|✅|
     |Randomiser Delay|The interval at which the randomizer functions|✅|
-    |Mouse Sens|Sensitivity of the mouse aimbot<br />TIP: Match the value with your Roblox sensitivity|✅|
 
 </details>
 
