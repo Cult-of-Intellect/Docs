@@ -32,10 +32,10 @@ sidebar_position: 3
     |Offscreen Arrows|Shows arrows for enemies off the screen|✅|
     |Show Distance|Shows the distance of the enemy|✅|
     |Show Player Name|Shows the name of the enemy|✅|
-    |See Through Players|This will render targets see-through|✅|
-    |See Through Players Targeting|5 types, Enemy, Teammates, All, Others, Local|✅|
-    |Show Occluded|Shows non-visible players in a different colour|✅|
-    |Show Occluded Color|Set the color to show occluded (hidden) players.|✅|
+    |<div className="purple-row-cell">See Through Players</div>|<div className="purple-row-cell">This will render targets see-through</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">See Through Players Targeting</div>|<div className="purple-row-cell">5 types, Enemy, Teammates, All, Others, Local</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Show Occluded</div>|<div className="purple-row-cell">Shows non-visible players in a different colour</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Show Occluded Color</div>|<div className="purple-row-cell">Set the color to show occluded (hidden) players.</div>|<div className="purple-row-cell">✅</div>|
 </details>
 
 <details>
@@ -62,7 +62,7 @@ sidebar_position: 3
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |Fullbright|Increases the brightness of everything|✅ (:ex only)|
+    |<div className="purple-row-cell">Fullbright</div>|<div className="purple-row-cell">Increases the brightness of everything</div>|<div className="purple-row-cell">✅⚠️</div>|
     |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
@@ -86,10 +86,10 @@ sidebar_position: 3
     |Horizontal Prediction|Predicts the enemy's horizontal movement|✅|
     |Vertical Prediction|Predicts the enemy's vertical movement|✅|
     |Flick Aim|Mimics a flick shot on enemies|✅|
-    |Wallcheck|Restricts aimlock to visible enemies|✅ (:ex only)|
-    |Triggerbot|Automatically shoots enemies on lock|✅ (:ex only)|
-    |Silent Aim|Directs lock to player without visually locking on them|✅|⚠️
-    |Magic Bullet|Wallbang accross the map|✅|⚠️
+    |<div className="purple-row-cell">Wallcheck</div>|<div className="purple-row-cell">Restricts aimlock to visible enemies</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Triggerbot</div>|<div className="purple-row-cell">Automatically shoots enemies on lock</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Silent Aim</div>|<div className="purple-row-cell">Directs lock to player without visually locking on them</div>|<div className="purple-row-cell">✅⚠️</div>|
+    |<div className="purple-row-cell">Magic Bullet</div>|<div className="purple-row-cell">Wallbang accross the map</div>|<div className="purple-row-cell">✅⚠️</div>|
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅|⚠️
     |Display Target|Visualizes the current target|✅|
@@ -264,7 +264,7 @@ sidebar_position: 3
     |Hiphack toggle|Hotkey to hip hack|✅|
     |Desync toggle|Hotkey to desync|✅|
     |Noclip hold|Hotkey to noclip|✅|
-    |Click TP|Click to TP hotkey|✅|
+    |<div className="purple-row-cell">Click TP</div>|<div className="purple-row-cell">Hotkey to Click TP</div>|<div className="purple-row-cell">✅</div>|
 
 </details>
 
@@ -287,7 +287,7 @@ sidebar_position: 3
     |Jumphack|Enables jump hack|✅|
     |Hiphack|Enables hip hack|✅|
     |Bhop|Enables Bhop|✅|
-    |Click to TP|Enables Click to TP|✅|
+    |<div className="purple-row-cell">Click TP</div>|<div className="purple-row-cell">Enables Click TP</div>|<div className="purple-row-cell">✅</div>|
 
 </details>
 
