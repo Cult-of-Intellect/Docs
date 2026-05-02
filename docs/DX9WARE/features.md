@@ -31,10 +31,10 @@ sidebar_position: 3
     |Offscreen Arrows|Shows arrows for enemies off the screen|✅|
     |Show Distance|Shows the distance of the enemy|✅|
     |Show Player Name|Shows the name of the enemy|✅|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>See Through Players</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>This will render targets see-through</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>See Through Players Targeting</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>5 types, Enemy, Teammates, All, Others, Local</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Show Occluded</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>	Shows non-visible players in a different colour</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Show Occluded Color</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Set the color to show occluded (hidden) players.</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div className="purple-row-cell">See Through Players</div>|<div className="purple-row-cell">This will render targets see-through</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">See Through Players Targeting</div>|<div className="purple-row-cell">5 types, Enemy, Teammates, All, Others, Local</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Show Occluded</div>|<div className="purple-row-cell">Shows non-visible players in a different colour</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Show Occluded Color</div>|<div className="purple-row-cell">Set the color to show occluded (hidden) players.</div>|<div className="purple-row-cell">✅</div>|
 </details>
 
 <details>
@@ -61,7 +61,7 @@ sidebar_position: 3
     |Add ESP Background|Adds a color customizable background to visuals|✅|
     |Radar|A FPS-style radar that maps enemies|❌|
     |Camera FOV|Adjusts the field of view of the local player's camera|✅|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Fullbright</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Increases the brightness of everything</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
+    |<div className="purple-row-cell">Fullbright</div>|<div className="purple-row-cell">Increases the brightness of everything</div>|<div className="purple-row-cell">✅⚠️</div>|
     |Set Time|Locally sets the game time|❌|
     |Show UI On Startup|Whether the UI is shown on startup|❌|
     |Menu Transparency|Adjusts the transparency of the menu|✅|
@@ -85,10 +85,10 @@ sidebar_position: 3
     |Horizontal Prediction|Predicts the enemy's horizontal movement|✅|
     |Vertical Prediction|Predicts the enemy's vertical movement|✅|
     |Flick Aim|Mimics a flick shot on enemies|✅|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Wallcheck</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Restricts aimlock to visible enemies</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Triggerbot</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Automatically shoots enemies on lock</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Silent Aim</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Directs lock to player without visually locking on them</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Magic Bullet</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Wallbang accross the map</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅⚠️</div>|
+    |<div className="purple-row-cell">Wallcheck</div>|<div className="purple-row-cell">Restricts aimlock to visible enemies</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Triggerbot</div>|<div className="purple-row-cell">Automatically shoots enemies on lock</div>|<div className="purple-row-cell">✅</div>|
+    |<div className="purple-row-cell">Silent Aim</div>|<div className="purple-row-cell">Directs lock to player without visually locking on them</div>|<div className="purple-row-cell">✅⚠️</div>|
+    |<div className="purple-row-cell">Magic Bullet</div>|<div className="purple-row-cell">Wallbang accross the map</div>|<div className="purple-row-cell">✅⚠️</div>|
     |Enemy mode|Targets a (specified) player to lock to|✅|
     |Unfair Aimbot|Continously teleports areas around the enemy|✅⚠️|
     |Display Target|Visualizes the current target|✅|
@@ -263,7 +263,7 @@ sidebar_position: 3
     |Hiphack toggle|Hotkey to hip hack|✅|
     |Desync toggle|Hotkey to desync|✅|
     |Noclip hold|Hotkey to noclip|✅|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Hotkey to Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div className="purple-row-cell">Click TP</div>|<div className="purple-row-cell">Hotkey to Click TP</div>|<div className="purple-row-cell">✅</div>|
 
 </details>
 
@@ -286,7 +286,7 @@ sidebar_position: 3
     |Jumphack|Enables jump hack|✅|
     |Hiphack|Enables hip hack|✅|
     |Bhop|Enables Bhop|✅|
-    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Enables Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
+    |<div className="purple-row-cell">Click TP</div>|<div className="purple-row-cell">Enables Click TP</div>|<div className="purple-row-cell">✅</div>|
 
 </details>
 
