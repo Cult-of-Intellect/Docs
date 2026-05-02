@@ -47,19 +47,6 @@ Use a ROBLOX launcher such as Fishstrap and change the channel to production.
 
 Restart your PC, or Open Task Manager and kill any Roblox processes and retry.
 
-:::warning
-### Update 15 June 2025
-
-The latest builds of Windows 11 23H2 break dx9ware and you will get the infinite load problem. You can check if you are on Windows 11 23H2 by following steps here [here](https://learn.microsoft.com/en-us/windows/client-management/client-tools/windows-version-search#using-keyword-search).
-
-
-If you are on 23H2 you will have to upgrade to 24H2.
-Check in Windows Update if the feature update to 24H2 is available, if not you can manually install it using this tool from Microsoft:
-https://www.microsoft.com/en-us/software-download/windows11
-
-Once you are on 24H2 it should work, you may still need to do Fishstrap steps above too, to get you onto the live channel.
-:::
-
 
 
 </details>
