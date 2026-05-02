@@ -263,7 +263,7 @@ sidebar_position: 3
     |Hiphack toggle|Hotkey to hip hack|✅|
     |Desync toggle|Hotkey to desync|✅|
     |Noclip hold|Hotkey to noclip|✅|
-    |Click TP|Click to TP hotkey|✅|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Hotkey to Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
 
 </details>
 
@@ -286,7 +286,7 @@ sidebar_position: 3
     |Jumphack|Enables jump hack|✅|
     |Hiphack|Enables hip hack|✅|
     |Bhop|Enables Bhop|✅|
-    |Click to TP|Enables Click to TP|✅|
+    |<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>Enables Click TP</div>|<div style={{backgroundColor:'#691b9a7a', color:'white', margin:'-10px', padding:'10px'}}>✅</div>|
 
 </details>
 
